@@ -1,5 +1,5 @@
 // card_test
-package card
+package ipc
 
 import (
 	"testing"

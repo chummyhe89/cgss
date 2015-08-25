@@ -1,5 +1,5 @@
 // server
-package card
+package ipc
 
 import (
 	"encoding/json"

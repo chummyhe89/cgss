@@ -1,5 +1,5 @@
 // client
-package card
+package ipc
 
 import (
 	//	"fmt"
